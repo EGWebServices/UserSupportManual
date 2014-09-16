@@ -1,0 +1,41 @@
+# Responding to user’s questions about logging into the site
+
+We often see reports of problems from users who are experiencing issues with logging into their account on the site. Typically, you can trace the source of the issue to one of the following:
+
+* Incorrect Password
+* Incorrect Email Address
+* Haven’t registered on the site yet
+
+The important thing to remember is that there are tools on the site which allows you to either confirm or diagnose the user’s issue.
+
+## Confirming that they have an account
+
+### Run a search on the site
+
+Admins have access to the search bar at the top right hand corner of the page. You can enter either the user’s email address or their full name. The results might be a little hard to follow, but they are trustworthy. If you’re not seeing a record for them, then it is possible that they haven’t created an account.
+
+### Search their team
+
+When they indicate that they are a member of a team, you can confirm this by searching for their name or email address inside the team. Chances are that if their name didn’t show up in the site that they aren’t a member of the team.
+
+## Look for Multiple accounts
+
+If your search matches more than one account under their name, confirm with them the email address that they’re using. It’s possible that they forgot that they had an account and registered a second time, and are now trying to log in using their previous password.
+
+## Password Resets
+
+If you have been able to locate their record on the site, and they confirmed that they are using the correct email address, suggest that they reset their password.
+
+### Reset their password as a Team Coach
+
+Coaches can now reset members’ passwords from inside the team. If you confirm that they are a member on the team, reset their password for them and then let them know that you’ve made the change. Encourage them to reset the password so that it is something secure and personal.
+
+### Check for activity in Sendgrid
+
+Another tool which can be useful if the problem still hasn’t been resolved is to check Sendgrid for activity matching with their confirmed email address. This would help you to determine if they were ever able to join the site. You would be searching for the event associated with the sending of the team invitation message or any other team notifications.
+
+## Listen for other possible causes
+
+It will be important to watch for signs that they might have been a member of the team at one time, but have now been removed or banned. You can determine this by checking their status in the team. Being banned from a team doesn’t mean that they won’t have access to their account, but it would limit them on what they can do on the site.
+
+Also, restricted users’ experience on the site will be different now that they are not shown the team interface. Instead, they only see their personal profile area and the streaming paths. It’s possible they might report this as being locked out of their account.
